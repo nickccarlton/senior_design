@@ -9,3 +9,5 @@ The code here performs three general tasks:
 1) Integrates our modular I/O panels;
 2) Integrates our modular controls panels; and
 3) Digitally processes input audio stream(s) to produce acoustically pleasing processed signal(s).
+
+To use this code, use the commands below in your machine's terminal.
