@@ -1,7 +1,11 @@
 # senior_design
-Team members: Nick Carlton, Joe Liptock, Bob Barnett, Silas Stevens, and Ju Lee. 
-Mentor: Michael Goryll. 
-TA: Brookelyn Barnes
+Team members:\tNick Carlton, 
+\n\t\t\t\tJoe Liptock, 
+\n\t\t\t\tBob Barnett, 
+\n\t\t\t\tSilas Stevens, and 
+\n\t\t\t\tJu Lee. 
+\nMentor:\tMichael Goryll. 
+\nTA:\t\tBrookelyn Barnes
 
 Because current guitar pedals are expensive, inflexible, or difficult-to-adjust in real-time, we are developing a *low-cost guitar pedal with modular I/O/controls panels and reconfigurable core*.
 
