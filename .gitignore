@@ -1,0 +1,5 @@
+# ignores all .o files
+*.o
+
+# ignores temp files ending with ~
+*~
