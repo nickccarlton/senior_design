@@ -26,8 +26,8 @@
 
 
 #include <string.h>
-#include "daisy_seed.h"
-#include "onepole.h"
+#include "libDaisy/src/daisy_seed.h"
+#include "DaisySP/Source/Filters/onepole.h"
 
 
 using namespace daisy;
