@@ -10,12 +10,11 @@ The code here performs three general tasks:
 2) Integrates our modular controls panels; and
 3) Digitally processes input audio stream(s) to produce acoustically pleasing processed signal(s).
 
-To use this code, first complete step 1, "Install the Toolchain," of the Daisy Seed "Getting Started" tutorial.
-https://daisy.audio/tutorials/cpp-dev-env/.
+To use this code, open the Daisy Seed "Getting Started" tutorial at https://daisy.audio/tutorials/cpp-dev-env/. Complete step 1.
 
-At step 1.5, open Windows Explorer or Finder, and navigate to a folder where you want to clone the repository.
+Between step 1 and step 2, locate a folder where you want to clone the repository. On Windows, you can open File Explorer, navigate to your desired destination, then copy the filepath from the address bar. On Mac, I imagine you can do something similar with Finder.
 
-At step 2, replace the command listed with the command below. You should enter this command in your VS Code Git Bash terminal. At the end, add the destination filepath you found in step 1.5.
+At step 2, replace the command listed in the tutorial with the command below. You should enter this command in your VS Code Git Bash terminal. At the end, append the destination filepath you found above.
 ```
 git clone --recurse-submodules https://github.com/nickccarlton/senior_design.git <FILEPATH>
 ```
