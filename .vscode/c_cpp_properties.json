@@ -3,11 +3,13 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/stmlib/third_party/STM/STM32H7xx_HAL_Driver/inc/*"
             ],
             "defines": [
                 "_DEBUG",
                 "STM32H750xx",
+                "STM32H750IB",
                 "UNICODE",
                 "_UNICODE"
             ],
